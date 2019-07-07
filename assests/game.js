@@ -19,7 +19,7 @@ $(document).ready(function() {
     
     function newGame() {
    
-      targetNum = generateNum(19, 120);
+      targetNum = generateNum(15, 100);
       
       $("#targetNum").text(targetNum);
       
